@@ -1,0 +1,6 @@
+{
+  "name": "IT-CLUB",
+  "description": "Informative website for IT-CLUB — a student-led technology, software engineering, AI, cybersecurity, and hardware prototyping community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
